@@ -15,7 +15,7 @@ Awesome curated list of social media marketing tools
 
 **Social networks:** Facebook, Twitter, LinkedIn, Pinterest, Instagram, YouTube.
 
-**Starting price: **$29/month, 10 social profiles
+**Starting price:** $29/month, 10 social profiles
 
 **Free-forever plan**: Yes, limited to 3 social profiles and 30 Scheduled Messages
 
@@ -23,7 +23,7 @@ Awesome curated list of social media marketing tools
 
 **Social networks:** Facebook, Twitter, Pinterest, LinkedIn, Instagram, and Google+.
 
-**Starting price: **$5/month, 10 social profiles
+**Starting price:** $5/month, 10 social profiles
 
 **Free-forever plan**: No
 
@@ -31,7 +31,7 @@ Awesome curated list of social media marketing tools
 
 **Social networks:** Facebook, Twitter, LinkedIn, Pinterest, Google+, Instagram
 
-**Starting price: **$99/month, 5 social profiles.
+**Starting price:** $99/month, 5 social profiles.
 
 **Free-forever plan**: No.
 
@@ -39,15 +39,15 @@ Awesome curated list of social media marketing tools
 
 **Social networks:** Facebook, Twitter, LinkedIn.
 
-**Starting price: **$49/month, 25 social profiles
+**Starting price:** $49/month, 25 social profiles
 
 **Free-forever plan**: No
 
-### [38. Crowdfire](https://www.crowdfireapp.com/)
+### 6. [Crowdfire](https://www.crowdfireapp.com/)
 
 **Social networks:** Facebook, Twitter, LinkedIn, Pinterest, Instagram.
 
-**Starting price: **$10/month, 2 accounts per social network.
+**Starting price:** $10/month, 2 accounts per social network.
 
 **Free-forever plan**: Yes, limited to 1 account per social network and 10 scheduled posts pre profile. Pinterest is not offered on the free plan.
 
