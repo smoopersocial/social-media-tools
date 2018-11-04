@@ -3,51 +3,11 @@ Awesome curated list of social media marketing tools
 
 ## Scheduling tools
 
-### 1. [Buffer](https://buffer.com/)
-
-**Social networks:** Facebook, Twitter, LinkedIn, Pinterest, Google+, Instagram.
-
-**Starting price:** $15/month, 8 social profiles
-
-**Free-forever plan**: Yes, limited to 3 social profiles and 10 scheduled posts per social profiles. Pinterest is not available on the Buffer’s free plan.
-
-### 2. [HootSuite](https://hootsuite.com/)
-
-**Social networks:** Facebook, Twitter, LinkedIn, Pinterest, Instagram, YouTube.
-
-**Starting price:** $29/month, 10 social profiles
-
-**Free-forever plan**: Yes, limited to 3 social profiles and 30 Scheduled Messages
-
-### 3. [OneUp](https://www.oneupapp.io)
-
-**Social networks:** Facebook, Twitter, Pinterest, LinkedIn, Instagram, and Google+.
-
-**Starting price:** $5/month, 10 social profiles
-
-**Free-forever plan**: No
-
-### 4. [Sprout Social](https://sproutsocial.com/)
-
-**Social networks:** Facebook, Twitter, LinkedIn, Pinterest, Google+, Instagram
-
-**Starting price:** $99/month, 5 social profiles.
-
-**Free-forever plan**: No.
-
-### 5. [MeetEdgar](https://meetedgar.com/)
-
-**Social networks:** Facebook, Twitter, LinkedIn.
-
-**Starting price:** $49/month, 25 social profiles
-
-**Free-forever plan**: No
-
-### 6. [Crowdfire](https://www.crowdfireapp.com/)
-
-**Social networks:** Facebook, Twitter, LinkedIn, Pinterest, Instagram.
-
-**Starting price:** $10/month, 2 accounts per social network.
-
-**Free-forever plan**: Yes, limited to 1 account per social network and 10 scheduled posts pre profile. Pinterest is not offered on the free plan.
-
+| Scheduling tools                                                   | Social networks                                             | Starting price                                                    | Free-forever plan                                                                                                                  | Chrome Extension | Features |
+|--------------------------------------------------------------------|-------------------------------------------------------------|-------------------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------|------------------|----------|
+| [Buffer](https://buffer.com/)                                      | Facebook, Twitter, LinkedIn, Pinterest, Google+, Instagram. | $15/month, 8 social profiles                                      | Yes, limited to 3 social profiles and 10 scheduled postsper social profiles. Pinterest is not available on the Buffer’s free plan. | yes              |          |
+| [Sprout Social](https://sproutsocial.com/)                         | Facebook, Twitter, LinkedIn, Pinterest, Google+, Instagram  | $99/month, 5 social profiles.                                     | No                                                                                                                                 |                  |          |
+| [MeetEdgar](https://meetedgar.com/)                                | Facebook, Twitter, LinkedIn.                                | $49/month, 25 social profiles                                     | No                                                                                                                                 |                  |          |
+| [Zoho](https://www.zoho.com/social/)                               | Facebook, Twitter, LinkedIn, Google+, and Instagram         | $10/month, 1 “brand” (1 account of each kind for the same“brand”) | Yes, but does not allow you to schedule posts for thefuture.                                                                       |                  |          |
+| [HootSuite](https://hootsuite.com/)                                | Facebook, Twitter, LinkedIn, Pinterest, Instagram, YouTube. | $29/month, 10 social profiles                                     | Yes, limited to 3 social profiles and 30 Scheduled Messages                                                                        |                  |          |
+| [Hubspot](https://www.hubspot.com/products/marketing/social-inbox) | Undisclosed                                                 | $800/month.                                                       | No                                                                                                                                 |                  |          |
