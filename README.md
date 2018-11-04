@@ -1,13 +1,13 @@
 # Social media marketing tools
 Awesome curated list of social media marketing tools
 
-**Scheduling tools**
+## Scheduling tools
 
 ### 1. [Buffer](https://buffer.com/)
 
 **Social networks:** Facebook, Twitter, LinkedIn, Pinterest, Google+, Instagram.
 
-**Starting price: **$15/month, 8 social profiles
+**Starting price:** $15/month, 8 social profiles
 
 **Free-forever plan**: Yes, limited to 3 social profiles and 10 scheduled posts per social profiles. Pinterest is not available on the Buffer’s free plan.
 
